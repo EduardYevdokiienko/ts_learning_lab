@@ -1,0 +1,12 @@
+{
+  "name": "ts_learning_lab",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node basics.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
